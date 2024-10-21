@@ -1,0 +1,6 @@
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_03_LoopParallel\Aula_03_LoopParallel\bin\Debug\Aula_03_LoopParallel.exe.config
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_03_LoopParallel\Aula_03_LoopParallel\bin\Debug\Aula_03_LoopParallel.exe
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_03_LoopParallel\Aula_03_LoopParallel\bin\Debug\Aula_03_LoopParallel.pdb
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_03_LoopParallel\Aula_03_LoopParallel\obj\Debug\Aula_03_LoopParallel.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_03_LoopParallel\Aula_03_LoopParallel\obj\Debug\Aula_03_LoopParallel.exe
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_03_LoopParallel\Aula_03_LoopParallel\obj\Debug\Aula_03_LoopParallel.pdb

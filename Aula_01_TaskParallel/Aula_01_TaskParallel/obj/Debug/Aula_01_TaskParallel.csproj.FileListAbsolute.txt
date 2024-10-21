@@ -1,0 +1,7 @@
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_01_TaskParallel\Aula_01_TaskParallel\bin\Debug\Aula_01_TaskParalel.exe.config
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_01_TaskParallel\Aula_01_TaskParallel\bin\Debug\Aula_01_TaskParalel.exe
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_01_TaskParallel\Aula_01_TaskParallel\bin\Debug\Aula_01_TaskParalel.pdb
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_01_TaskParallel\Aula_01_TaskParallel\obj\Debug\Aula_01_TaskParallel.csprojAssemblyReference.cache
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_01_TaskParallel\Aula_01_TaskParallel\obj\Debug\Aula_01_TaskParallel.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_01_TaskParallel\Aula_01_TaskParallel\obj\Debug\Aula_01_TaskParalel.exe
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_01_TaskParallel\Aula_01_TaskParallel\obj\Debug\Aula_01_TaskParalel.pdb

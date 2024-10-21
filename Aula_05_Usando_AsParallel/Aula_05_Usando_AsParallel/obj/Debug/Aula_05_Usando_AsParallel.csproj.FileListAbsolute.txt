@@ -1,0 +1,6 @@
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_05_Usando_AsParallel\Aula_05_Usando_AsParallel\bin\Debug\Aula_05_Usando_AsParallel.exe.config
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_05_Usando_AsParallel\Aula_05_Usando_AsParallel\bin\Debug\Aula_05_Usando_AsParallel.exe
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_05_Usando_AsParallel\Aula_05_Usando_AsParallel\bin\Debug\Aula_05_Usando_AsParallel.pdb
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_05_Usando_AsParallel\Aula_05_Usando_AsParallel\obj\Debug\Aula_05_Usando_AsParallel.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_05_Usando_AsParallel\Aula_05_Usando_AsParallel\obj\Debug\Aula_05_Usando_AsParallel.exe
+E:\Textos\Estudos\Cursos\C#\Escola para Programadores\Aula_05_Usando_AsParallel\Aula_05_Usando_AsParallel\obj\Debug\Aula_05_Usando_AsParallel.pdb
